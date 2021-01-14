@@ -8,7 +8,7 @@ export const homeObjOne = {
     description: 'We help business owners increase their revenue. Our team of unique specialists can help you achieve your business goals.',
     headline: 'Lead Generation Specialist for Online Businesses',
     lightText: true,
-    topLine: 'Marketing Agency',
+    topLine: 'Digital Marketing Agency',
     img: require('../../images/svg-1.svg').default,
     alt: 'Image',
     start: ''
