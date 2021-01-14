@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/REACT_JS-Digital-Agency-Website/static/js/main.02c665e1.chunk.js",
-    "main.js.map": "/REACT_JS-Digital-Agency-Website/static/js/main.02c665e1.chunk.js.map",
+    "main.js": "/REACT_JS-Digital-Agency-Website/static/js/main.495c9735.chunk.js",
+    "main.js.map": "/REACT_JS-Digital-Agency-Website/static/js/main.495c9735.chunk.js.map",
     "runtime-main.js": "/REACT_JS-Digital-Agency-Website/static/js/runtime-main.91414f80.js",
     "runtime-main.js.map": "/REACT_JS-Digital-Agency-Website/static/js/runtime-main.91414f80.js.map",
     "static/js/2.6c18ec8f.chunk.js": "/REACT_JS-Digital-Agency-Website/static/js/2.6c18ec8f.chunk.js",
@@ -16,6 +16,6 @@
   "entrypoints": [
     "static/js/runtime-main.91414f80.js",
     "static/js/2.6c18ec8f.chunk.js",
-    "static/js/main.02c665e1.chunk.js"
+    "static/js/main.495c9735.chunk.js"
   ]
 }
